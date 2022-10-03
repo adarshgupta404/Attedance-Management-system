@@ -1,0 +1,31 @@
+body{
+	height:100%;
+}
+.button {
+	display: inline-block;
+    padding: 6px 12px;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+	touch-action: manipulation;
+    cursor: pointer;
+	user-select: none;
+    background-image: none;
+    border: 1px solid #0000;
+    border-radius: 4px;
+	background-color: crimson;
+	color: #fff;
+	border-color: #4cae4c;
+	margin-top: 20px;
+	position: absolute;
+	right: 5%;
+  }
+#preview{
+	position: relative;
+    margin-left: 35%;
+    display: inline-block;
+}
