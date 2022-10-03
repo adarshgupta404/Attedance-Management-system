@@ -10,3 +10,4 @@
 		session_start();
 		$_SESSION['admin_id'] = $f_login['admin_id'];
 	}
+?>
